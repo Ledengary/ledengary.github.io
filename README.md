@@ -1,2 +1,2 @@
 # homepage
-My personal homepage. https://ledengary.github.io/homepage/
+My personal homepage. https://ledengary.github.io/
